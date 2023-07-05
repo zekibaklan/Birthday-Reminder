@@ -1,4 +1,4 @@
-# Birthday-Reminder
+# Birthday Reminder | On Time
 
 ## ***Get the number of birthdays left and notification***
 **Projenin Amacı**
